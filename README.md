@@ -8,6 +8,8 @@ oppure scrivermi direttamente via mail all'indirizzo fabiano.caputo@outlook.it
 
 Ho diversi altri progetti in ballo quindi probabilmente non riuscirò ad aggiornarla in tempo reale con le nuove versioni di Aseprite, per cui ogni contributo alla traduzione è più che benvenuto, oltre che ogni feedback aperto a discussione!
 
+# Istruzioni d'installazione
+
 Per installare la traduzione, scaricate il file .aseprite-extension
 qui: http://www.mediafire.com/file/bg7qgvvl0fuymw9/aseprite-it.aseprite-extension/file
 
