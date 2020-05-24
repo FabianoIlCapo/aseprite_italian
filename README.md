@@ -10,8 +10,8 @@ Ho diversi altri progetti in ballo quindi probabilmente non riuscirò ad aggiorn
 
 # Istruzioni d'installazione
 
-Per installare la traduzione, scaricate il file .aseprite-extension
-qui: http://www.mediafire.com/file/bg7qgvvl0fuymw9/aseprite-it.aseprite-extension/file
+Per installare la traduzione, scaricate l'ultima versione del file .aseprite-extension
+qui: https://github.com/FabianoIlCapo/aseprite_italian/releases
 
 e, con Aseprite precedentemente installato sul vostro pc, fate doppio clic sul file.
 Vi apparirà una finestra che vi chiede se volete di installare l'estensione, scegliete "Install".
