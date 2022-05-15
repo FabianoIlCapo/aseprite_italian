@@ -1,7 +1,7 @@
-# aseprite_italian
+# Aseprite in italiano
 A translation of Aseprite to Italian
 
-Ho tradotto quasi tutto ciò che si legge a schermo usando Aseprite, ma probabilmente incontrerete ancora qualche scritta in inglese quà e là. Probabilmente ciò è dovuto al fatto che quelle scritte non si trovano nel file .ini contenente le stringhe, ma da qualche altra parte nel programma, sono certo che diventeranno traducibili (o magari lo sono già, eheh).
+Ho tradotto quasi tutto ciò che si legge a schermo usando Aseprite, ma incontrerete ancora qualche scritta in inglese quà e là. Probabilmente ciò è dovuto al fatto che quelle scritte non si trovano nel file .ini contenente le stringhe, ma da qualche altra parte nel programma, sono certo che diventeranno traducibili.
 
 Se volete contribuire alla traduzione potete contattarmi sul forum di Aseprite, in questo thread: https://community.aseprite.org/t/italian-translation/4507
 oppure scrivermi direttamente via mail all'indirizzo fabiano.caputo@outlook.it
