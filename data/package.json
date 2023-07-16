@@ -11,7 +11,12 @@
   ],
   "contributes": {
     "languages": [
-      { "id": "it", "path": "./it.ini" }
+      {
+        "id": "it",
+        "path": "./it.ini",
+        "englishName": "Italian",
+        "displayName": "Italiano"
+      }
     ]
   }
 }
