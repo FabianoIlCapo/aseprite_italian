@@ -5,7 +5,10 @@
   "version": "4",
   "publisher": "Fabiano Caputo",
   "license": "CC-BY-SA-4.0",
-  "author": { "name": "Fabiano Caputo", "url": "https://community.aseprite.org/u/fabiano" },
+  "author": {
+    "name": "Fabiano Caputo",
+    "url": "https://community.aseprite.org/u/fabiano"
+  },
   "categories": [
     "Languages"
   ],
