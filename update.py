@@ -4,7 +4,7 @@ import os
 from aseprite_ini import Aseini
 
 logging.basicConfig(level=logging.DEBUG)
-logger = logging.getLogger('format')
+logger = logging.getLogger('update')
 
 project_root_dir = os.path.dirname(__file__)
 strings_dir = os.path.join(project_root_dir, 'assets', 'strings')
@@ -16,12 +16,12 @@ def main():
     strings_en.fallback(Aseini.pull_strings('v1.3-rc5'))
     strings_en.fallback(Aseini.pull_strings('v1.2.40'))
     strings_en.save(os.path.join(strings_dir, 'en.ini'))
-    logger.info("Update strings: 'en'")
+    logger.info("Update strings: 'en.ini'")
 
     it_file_path = os.path.join(data_dir, 'it.ini')
     strings_it = Aseini.load(it_file_path)
     strings_it.save(it_file_path, strings_en)
-    logger.info("Update strings: 'it'")
+    logger.info("Update strings: 'it.ini'")
 
     translated, total = strings_it.coverage(strings_en)
     progress = translated / total
