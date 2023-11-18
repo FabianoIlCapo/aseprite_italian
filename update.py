@@ -12,9 +12,7 @@ data_dir = os.path.join(project_root_dir, 'data')
 
 
 def main():
-    strings_en = Aseini.pull_strings()
-    strings_en.fallback(Aseini.pull_strings('v1.3-rc5'))
-    strings_en.fallback(Aseini.pull_strings('v1.2.40'))
+    strings_en = Aseini.pull_strings('v1.3-rc8')
     strings_en.save(os.path.join(strings_dir, 'en.ini'))
     logger.info("Update strings: 'en.ini'")
 
